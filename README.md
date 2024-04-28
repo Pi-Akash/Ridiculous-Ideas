@@ -1,6 +1,8 @@
 # Ridiculous Conversations with 🤖 
  A web app which lets you converse with an AI on ridiculous ideas.
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ridiculous-conversation.streamlit.app/)
+
 ![App Screenshot](images/Demo_Image.png)
 
 This [Streamlit](https://streamlit.io/) app generates some crazy ideas based using an open source [API](https://itsthisforthat.com/api.php) and [Groq](https://groq.com/)
