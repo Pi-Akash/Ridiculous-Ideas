@@ -20,6 +20,9 @@ pip install -r requirements.txt
 - You can continue the conversation as long as you want.
 - If you like the conversation and would like to download it, you can click on the <b>Download Conversation</b> button, it will help you download your conversational data.
 
+Demo Video:
+https://github.com/Pi-Akash/Ridiculous-Ideas/blob/main/RC_Demo.mp4
+
 ## Customization
 The app can be easily customized to incorporate other language models from Groq settings or you can play around with the default parameters.
 
